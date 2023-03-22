@@ -3,5 +3,6 @@ case study :Identify stakeholders:
 -Team members-> who will develope the App
 -Project Sponser
 -Google Maps-> As an agreement to use their services 
+-payment applications services
 
 
