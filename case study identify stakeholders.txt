@@ -1,0 +1,7 @@
+case study :Identify stakeholders:
+-Customers->stores,restaurants,clinics,etc..(Places which offer their discounts at the APP)
+-Team members-> who will develope the App
+-Project Sponser
+-Google Maps-> As an agreement to use their services 
+
+
