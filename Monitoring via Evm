@@ -1,0 +1,25 @@
+1- how much is it over/under budget?
+AC=600+1200+400*50%+1200*33.3%=2399.6
+Budget=600+1400+200+500=2700
+The answer is: over budget by 300.4 k$
+
+2-By how many days is it ahead/behind the schedule?
+the total duration=11 months
+7 months have passed: at this stage task 2 should be finished and 66.6% of task 4
+The answer is: The schedule is behind by one day
+
+3- By the end of the project by how much will it be over/under budget?
+According to the current data it is predicted to be over budget by 500 k$
+
+4- Calculate CV SV CPI SPI EAC
+Cost Variance: CV = EV-AC EV = Earned Value AC = Actual Cost
+0-2399.6= -2399.6
+Schedule Variance: SV = EV-PV EV = Earned Value PV = Planned Value
+0-2700= -2700
+Cost Performance Index CPI = EV/AC EV = Earned Value AC = Actual Cost
+0/2399.6= 0
+Schedule Performance Index SPI = EV/PV EV = Earned Value PV = Planned Value
+0/2700= 0
+Estimate At Completion EAC = AC+ETC AC = Actual Cost ETC = Estimate to Completion
+2399.6+800.4= 3200
+
