@@ -1,0 +1,15 @@
+Definition of done:DOD:
+The Story is Tested
+All defects are fixed
+All the points mentioned in a user story are completed in development 
+The developed feature qualifies the acceptance criteria 
+The Product Owner has approved it
+The documentation is complete
+
+Definition of ready:DOR:
+A user story is referred to as ready when it has all the important details that are enough to specify the requirement of a feature described in the story
+User story is “ready” to be added to a sprint
+The story should be instantly “actionable,” and ready to build
+Story must have clear business value
+Story must be broken down enough to fit a single sprint
+Story needs at least one acceptance criterium
